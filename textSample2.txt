@@ -1,0 +1,10 @@
+Books on programming
+
+  Python Crash Course: A Hands-On, Project-Based Introduction to Programming  
+  Learn Python the Hard Way: 3rd Edition
+  Python Programming: An Introduction to Computer Science (3rd Edition) 
+  Python Cookbook: Recipes for Mastering Python 3 (3rd Edition)
+
+  
+  Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke
+  “JavaScript for Kids: A Playful Introduction to Programming” by Nick Morgan
